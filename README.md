@@ -18,3 +18,4 @@
 Note: 
 1. Run the Backend app first before running the frontend app
 2. UI uses node veriosn 20.0.2
+![image](https://github.com/user-attachments/assets/4d5decbf-fdf1-4d5a-afb0-3d746d83bc6b)
