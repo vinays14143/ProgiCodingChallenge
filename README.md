@@ -15,5 +15,6 @@
 6. Run the app using **npm run serve**
 7. The Goto localhost http://localhost:8080/
 
-Note: Run the Backend app first before running the frontend app
-UI uses node veriosn 20.0.2
+Note: 
+1. Run the Backend app first before running the frontend app
+2. UI uses node veriosn 20.0.2
